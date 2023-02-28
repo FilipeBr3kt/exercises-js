@@ -1,4 +1,4 @@
-# exercices-js
+# EXERCISES-JS
 alguns exercícios em javascript
 
 # Exercício 001
