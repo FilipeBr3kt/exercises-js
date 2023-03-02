@@ -83,3 +83,25 @@ Utilizando a estrutura do Switch faça um programa que simule uma calculadora b�
 como parâmetros dois valores numéricos e uma string referente à operação e a realize com os valores
 numéricos na ordem que foram inseridos. Por exemplo: calculadora (2, ‘+’, 3). A função efetuará a soma de 2 e
 3. Dica: Os sinais das operações são: ‘+’. ‘-’, ‘*’ e ‘/’. Crie um caso default para operações inválidas.
+
+# Exercício 017
+Faça uma função que leia o plano de trabalho e o salário atual de um funcionário e calcula e imprime o seu
+novo salário. Use a estrutura switch e faça um caso default que indique que o plano é inválido.
+
+# Exercício 018
+Faça um programa que leia um número entre 0 e 10, e escreva este número por extenso. Use o comando
+switch. Crie um case default que escreva ‘Número fora do intervalo.’
+
+# Exercício 019
+Implemente uma função que receba como parâmetros o código do item pedido, a quantidade e calcule o valor
+a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item. Use o
+comando switch. Crie um caso default para produto não existente.
+
+# Exercício 020
+Crie um programa para informar quais e quantas notas são necessárias para entregar o mínimo de cédulas
+para um determinado valor informado pelo usuário considerando notas de R$ 100, R$ 50, R$ 10 e R$ 5 e R$ 1.
+Seu programa deve mostrar apenas as notas utilizadas. Por exemplo, ao solicitar R$18, o programa deve
+informar apenas a seguinte informação (note que não foram exibidas informações sobre as demais cédulas): 1
+nota(s) de R$ 10. 1 nota(s) de R$ 5. 3 nota(s) de R$ 1.
+
+
