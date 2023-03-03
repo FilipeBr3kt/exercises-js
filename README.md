@@ -128,5 +128,6 @@ Crie um programa que imprima 11 vezes a frase " Hello World!" utilizando uma est
 # Exercício 025
 Escrever um programa para exibir os números de 1 até 50 na tela.
 
-# Exercício 026 Fazer um programa para encontrar todos os pares entre 1 e 100.
+# Exercício 026 
+Fazer um programa para encontrar todos os pares entre 1 e 100.
 
