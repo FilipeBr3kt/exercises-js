@@ -104,4 +104,29 @@ Seu programa deve mostrar apenas as notas utilizadas. Por exemplo, ao solicitar 
 informar apenas a seguinte informação (note que não foram exibidas informações sobre as demais cédulas): 1
 nota(s) de R$ 10. 1 nota(s) de R$ 5. 3 nota(s) de R$ 1.
 
+# Exercício 021
+Criar um programa para identificar o valor a ser pago por um plano de saúde dada a idade do conveniado
+considerando que todos pagam R$ 100 mais um adicional conforme a seguinte tabela: 1) crianças com menos
+de 10 anos pagam R$80; 2) conveniados com idade entre 10 e 30 anos pagam R$50; 3) conveniados com
+idade acima de 30 e até 60 anos pagam R$ 95; e 4) conveniados acima de 60 anos pagam R$130
+
+# Exercício 022
+Criar uma função para calcular o valor a ser pago de anuidade de uma associação. A função recebe como
+parâmetro um inteiro que representa o mês (1 - janeiro, 2 - fevereiro…) que foi paga e o valor da anuidade. A
+anuidade deve ser paga no mês de janeiro. Por mês, é cobrado 5% de juros (sob o regime de juros
+compostos). O retorno deve ser o valor a ser pago para o respectivo mês escolhido.
+
+# Exercício 023
+Escreva um algoritmo que leia o código de um aluno e suas três notas. Calcule a média ponderada do
+aluno, considerando que o peso para a maior nota seja 4 e para as duas restantes, 3. Mostre o código do
+aluno, suas três notas, a média calculada e uma mensagem "APROVADO" se a média for maior ou igual a 5 e
+"REPROVADO" se a média for menor que 5. Repita a operação até que o código lido seja negativo.
+
+# Exercício 024
+Crie um programa que imprima 11 vezes a frase " Hello World!" utilizando uma estrutura de repetição while.
+
+# Exercício 025
+Escrever um programa para exibir os números de 1 até 50 na tela.
+
+# Exercício 026 Fazer um programa para encontrar todos os pares entre 1 e 100.
 
